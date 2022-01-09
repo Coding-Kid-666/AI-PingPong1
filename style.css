@@ -1,0 +1,19 @@
+.header{
+    top: 0;
+    width: 100%;
+    text-align: left;
+    position: sticky;
+}
+
+.title{
+    display:inline;
+}
+
+.HOWPLAYAAAA{
+    float: right;
+}
+
+canvas {
+    border-width: 3px;
+    border-color: white;
+}
